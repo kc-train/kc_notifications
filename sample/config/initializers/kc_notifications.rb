@@ -1,0 +1,1 @@
+ KcNotifications.user_class = 'User'
